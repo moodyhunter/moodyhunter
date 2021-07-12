@@ -20,4 +20,4 @@ Welcome to @moodyhunter's GitHub profile page, he/him, ~~BTW I Use Arch~~
 
 ### I will, probably do...
 
-- Learning cryptography
+- Learn about cryptography
