@@ -1,13 +1,14 @@
 ## 👋 Hello!
 
-Welcome to @moodyhunter's GitHub profile page, he/him, ~~BTW I Use Arch~~
+Welcome to Moody's GitHub Profile!
 
 ### Quick Personal Description
 
+- ♂️ He/Him
 - 💻 ArchLinux!
-- ❤️ Used C / C++ / C# (.Net) / Haskell / ~~HTML~~ / Java / LaTeX / QML (Currently Learning)
+- ❤️ Used Bash / C / C++ / C# (.Net) / Haskell / ~~HTML~~ / Java / Python / LaTeX / QML (Still Learning)
 - 🍏 Enjoyed Qt Desktop Application Development
-- 🏫 CS Student @ University of Warwick
+- 🏫 Year 2 Computer Science Student @ University of Warwick
 - 🗞️ GPLv3!
 
 ### I'm currently...
