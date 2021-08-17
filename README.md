@@ -21,3 +21,5 @@ Welcome to Moody's GitHub Profile!
 - Learning cryptography.
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true)
+
+[![ASK ME ANYTHING HERE](ask_me.png)](https://github.com/moodyhunter/moodyhunter/issues/new?title=Hi%20moody,%20I...)
