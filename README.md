@@ -1,4 +1,4 @@
-## 👋 Hello!
+# Hi👋, This is Moody
 
 Welcome to Moody's GitHub Profile!
 
@@ -21,5 +21,6 @@ Welcome to Moody's GitHub Profile!
 - Learning cryptography.
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true)
+<a href="https://github.com/moodyhunter/moodyhunter/issues/new?title=Hi%20moody,%20I..."><img width="300" align="right" style="float: right; margin: 0 0 10px 0;" src="ask_me.png"/></a>
 
-[![ASK ME ANYTHING HERE](ask_me.png)](https://github.com/moodyhunter/moodyhunter/issues/new?title=Hi%20moody,%20I...)
+  
