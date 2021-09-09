@@ -14,7 +14,7 @@ Welcome to Moody's GitHub Profile!
 ### I'm currently...
 
 - Learning QML, especially the QML plugin with CMake, 
-  - Learning by reading [Qaterial](https://github.com/OlivierLDff/Qaterial) and by rewritting [PD - The Personal Dashboard](https://github.com/moodyhunter/PD)
+  - Learning by reading [Qaterial](https://github.com/OlivierLDff/Qaterial) and by writting [PD - The Personal Dashboard](https://github.com/moodyhunter/PD)
 - Learning cryptography.
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true)
