@@ -20,4 +20,4 @@ Welcome to Moody's GitHub Profile!
 ![Contributions](https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true)
 <a href="https://github.com/moodyhunter/moodyhunter/issues/new?title=Hi%20Moody,%20I ..."><img width="300" align="right" style="float: right; margin: 0 0 10px 0;" src="ask_me2.png"/></a>
 
-  
+<img width="300" src="https://wakatime.com/share/@moodyhunter/abd1a4e3-8870-4150-9c80-29889a3608c3.svg"/><img width="300" align="right" style="float: right; margin: 0 0 10px 0;" src="https://wakatime.com/share/@moodyhunter/b8a23019-eb46-436f-80e3-338022e328bb.svg"/></a>
