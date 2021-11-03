@@ -1,7 +1,6 @@
-# Hi👋
-## This is Moody
+# Hi👋, this is Moody
 
-Welcome to Moody's GitHub Profile!
+Welcome to my GitHub profile!
 
 ### Quick Personal Description
 
