@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 
 - Doing coursework.
 
-- ~~Learning QML, especially the QML plugin with CMake, ~~
+- ~~Learning QML, especially the QML plugin with CMake,~~
   - ~~Learning by reading [Qaterial](https://github.com/OlivierLDff/Qaterial) and by writting [PD - The Personal Dashboard](https://github.com/moodyhunter/PD)~~
 - ~~Learning cryptography.~~
 
