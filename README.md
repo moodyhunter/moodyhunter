@@ -13,9 +13,11 @@ Welcome to my GitHub profile!
 
 ### I'm currently...
 
-- Learning QML, especially the QML plugin with CMake, 
-  - Learning by reading [Qaterial](https://github.com/OlivierLDff/Qaterial) and by writting [PD - The Personal Dashboard](https://github.com/moodyhunter/PD)
-- Learning cryptography.
+- Doing coursework.
+
+- ~~Learning QML, especially the QML plugin with CMake, ~~
+  - ~~Learning by reading [Qaterial](https://github.com/OlivierLDff/Qaterial) and by writting [PD - The Personal Dashboard](https://github.com/moodyhunter/PD)~~
+- ~~Learning cryptography.~~
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true)
 <a href="https://github.com/moodyhunter/moodyhunter/issues/new?title=Hi%20Moody,%20I ..."><img width="300" align="right" style="float: right; margin: 0 0 10px 0;" src="ask_me2.png"/></a>
