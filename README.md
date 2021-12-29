@@ -16,11 +16,6 @@ Welcome to my GitHub profile!
 - 🏫 Year 2 Computer Science @ University of Warwick
 - 🗞️ GPLv3!
 
-### I'm currently...
-
-- Learning QML, CMake, Rust and Golang;
-  - By writting [MoodyAPI](https://github.com/moodyhunter/MoodyAPI)
-
 ### My Contributions
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=moodyhunter&langs_count=10&theme=nightowl"/><img width="480" align="right" style="float: right; margin: 0 0 10px 0;" src="https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true&count_private=true"/>
+<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=moodyhunter&langs_count=10&theme=nightowl"/><img width="320" align="right" style="float: right; margin: 0 0 10px 0;" src="https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true&count_private=true"/>
