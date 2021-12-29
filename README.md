@@ -18,4 +18,4 @@ Welcome to my GitHub profile!
 
 ### My Contributions
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=moodyhunter&langs_count=10&theme=nightowl"/><img width="320" align="right" style="float: right; margin: 0 0 10px 0;" src="https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true&count_private=true"/>
+<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=moodyhunter&langs_count=8&theme=nightowl"/><img width="360" align="right" style="float: right; margin: 0 0 10px 0;" src="https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=tokyonight&show_icons=true&count_private=true"/>
