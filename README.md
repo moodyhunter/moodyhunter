@@ -1,4 +1,4 @@
-# Hi👋, this is Moody
+# 👋 Hi, this is Moody
 
 Welcome to my GitHub profile!
 
@@ -16,7 +16,9 @@ Welcome to my GitHub profile!
 - 🏫 Year 2 Computer Science @ University of Warwick
 - 🗞️ GPLv3!
 
-#### :bar_chart: **[WakaTime Monthly Coding Statistics](https://github.com/moodyhunter/moodyhunter/blob/main/.github/workflows/wakatime.yml)**
+#### :bar_chart: **[WakaTime Coding Statistics](https://github.com/moodyhunter/moodyhunter/blob/main/.github/workflows/wakatime.yml)**
+
+**Last 30 days:**
 
 <!--START_SECTION:waka-->
 
