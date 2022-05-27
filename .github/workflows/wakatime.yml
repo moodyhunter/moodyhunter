@@ -15,7 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update WakaTime Coding Statistics
-          SHOW_TITLE: true
           BLOCKS: "⬜🟨🟩"
-          SHOW_TOTAL: true
-          TIME_RANGE: last_14_days
+          TIME_RANGE: last_30_days
