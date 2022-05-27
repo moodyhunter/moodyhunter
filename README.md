@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 - 🏫 Year 2 Computer Science @ University of Warwick
 - 🗞️ GPLv3!
 
-### Coding Statistics
+#### :bar_chart: **[WakaTime Monthly Coding Statistics](https://github.com/moodyhunter/moodyhunter/blob/main/.github/workflows/wakatime.yml)**
 
 <!--START_SECTION:waka-->
 
@@ -34,5 +34,7 @@ JSON              23 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
+
+#### 🌟 GitHub Statistics
 
 ![hehe](https://github-readme-stats.vercel.app/api?username=moodyhunter&theme=nightowl&show_icons=true&count_private=true)
