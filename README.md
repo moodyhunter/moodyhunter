@@ -10,10 +10,10 @@ Welcome to my GitHub profile!
 
 - ♂️ He/Him
 - 💻 ArchLinux + KDE!
-- ✅ Familiar with: C, Go, C++, Python, QML
-  - Other Languages Used: Bash, C#, Haskell, ~~HTML~~, JavaScript, Rust, Java, LaTeX
-- ❤️ Qt Contributor
-- 🏫 Year 2 Computer Science @ University of Warwick
+- ✅ Familiar With: C++, Go, C, Python, QML, fish shell (?)
+  - Other Languages: Bash, C#, Haskell, ~~HTML~~, JavaScript, Rust, Java, LaTeX
+- ❤️ A Qt Contributor
+- 🏫 Year 2 Computer Science @ The University of Warwick
 - 🗞️ GPLv3!
 
 #### :bar_chart: **[WakaTime Coding Statistics](https://github.com/moodyhunter/moodyhunter/blob/main/.github/workflows/wakatime.yml)**
