@@ -10,11 +10,10 @@ Welcome to my GitHub profile!
 
 - ♂️ He/Him
 - 💻 ArchLinux + KDE!
+- ❤️ A [Qt Contributor](https://codereview.qt-project.org/q/owner:mooodyhunter@outlook.com)
 - ✅ Familiar With: C++, Go, C, Python, QML, fish shell (?)
   - Other Languages: Bash, C#, Haskell, ~~HTML~~, JavaScript, Rust, Java, LaTeX
-- ❤️ A Qt Contributor
 - 🏫 Year 2 Computer Science @ The University of Warwick
-- 🗞️ GPLv3!
 
 #### :bar_chart: **[WakaTime Coding Statistics](https://github.com/moodyhunter/moodyhunter/blob/main/.github/workflows/wakatime.yml)**
 
