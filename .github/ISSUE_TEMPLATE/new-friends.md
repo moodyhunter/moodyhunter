@@ -1,7 +1,7 @@
 ---
 name: Friends' Link/友链
 about: 'New Friend''s Link:'
-title: 'Requesting new friends link/请求添加友链'
+title: 'Requesting new friends link/来加友链！'
 labels: 'friends'
 assignees: ''
 
