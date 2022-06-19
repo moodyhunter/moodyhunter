@@ -1,7 +1,6 @@
 ---
 name: Ask me questions/问点问题
-about: Hi Moody, ....
-title: ''
+title: 'I want to ask.../我想问问'
 labels: questions
 assignees: ''
 
