@@ -7,8 +7,14 @@ assignees: ''
 
 ---
 
-my name is/我是: <...>
-and my website is at/我的网站在 <...>
+# Nice to meet you!
+
+- My name is / 我的名字是
+  - `name`
+- My website is at / 我的网站域名为:
+  - `example.com`
+- URL to my Avatar (leave blank for GitHub Avatar) / 头像的 URL（留空则使用 GitHub 头像）
+  - `https://example.com/example.jpg`
 
 - [ ] I want to add my site to your friends' links/我想将自己的网站添加到友链
 
