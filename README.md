@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
   - QtDeclarative: ![wakatime](https://wakatime.com/badge/user/227ea36b-fa6f-4f7f-bd68-a6f48c2f9dc9/project/aea369ae-e8c7-4fd5-bdcb-7c20cdb5c20e.svg)
 - ✅ C++, Go, C, Python, QML, fish shell (?)
   - Other Languages: Bash, C#, Haskell, ~~HTML~~, JavaScript, Rust, Java, LaTeX
-- 🏫 Year 2 Computer Science @ The University of Warwick
+- 🏫 Year 3 Computer Science @ The University of Warwick
 
 #### :bar_chart: **[WakaTime Coding Statistics](https://github.com/moodyhunter/moodyhunter/blob/main/.github/workflows/wakatime.yml)**
 
